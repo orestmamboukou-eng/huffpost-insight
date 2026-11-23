@@ -1,0 +1,7 @@
+,Valeur
+Cohérence C_v moyenne,0.52403233886611
+"Diversité des mots (25 premiers mots, uniques / total)",0.96
+Similarité moyenne entre thèmes (cosinus),0.06850296824571359
+"Silhouette (cosinus, 6 000 articles)",0.5047625807697479
+Silhouette d'un découpage aléatoire,-0.018442012906560546
+Articles nets (ensemble),0.523738417949307
